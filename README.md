@@ -1,2 +1,12 @@
 # IntelNeural_ObjectDetection
-This project is using the Neural Compute Stick 2 
+This project is using the Neural Compute Stick 2 you can find the information in https://software.intel.com/en-us/neural-compute-stick
+
+
+You can dowloand tested models in the following link:
+http://docs.openvinotoolkit.org/latest/usergroup1.html
+
+This is an amazing tool you can use to do different inferences lest try it
+
+you can download models and right after run -- > python ObjectDetectionGenderAgeIntel.py
+and enjoy it
+
