@@ -1,4 +1,4 @@
-# IntelNeural_ObjectDetection
+# IntelNeural_ObjectDetection 
 This project is using the Neural Compute Stick 2 you can find the information in https://software.intel.com/en-us/neural-compute-stick
 
 
